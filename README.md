@@ -2,13 +2,13 @@
 
 
 
-##*Description*
+##H2*Description*
 
 <sub>Practice using GitHub<sub>
 
-###[How to Run Program](https://www.example.com)
+###H3[How to Run Program](https://www.example.com)
 
-####**Files Used**
+####H4**Files Used**
 - LICENSE
 - CODE FILES
 - DOCUMENTATION
