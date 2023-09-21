@@ -4,7 +4,7 @@
 
 *Description*
 
-<sub>Prectice using GitHub<sub>
+<sub>:Practice using GitHub<sub>
 
 [How to Run Program](https://www.example.com)
 
